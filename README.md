@@ -1,5 +1,15 @@
 # 🚀 Poke Test
 
+## ✨ Demos
+
+### Destop:
+
+https://github.com/user-attachments/assets/e9713d7e-0c5a-4bb7-9136-fe493dd1d733
+
+### Mobile:
+
+https://github.com/user-attachments/assets/65dd4cfe-7e79-4fe3-86f8-ec16fdc5f80d
+
 ## 🏁 Getting Started
 
 ### 📦 Install Dependencies
@@ -106,3 +116,4 @@ yarn test --watch
 ```
 
 ℹ️ This command will start Jest in watch mode, which automatically reruns tests related to changed files
+
