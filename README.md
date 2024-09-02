@@ -10,7 +10,7 @@ yarn install
 
 ### 🔑 Configure environment variables
 
-Copy `.env.example` to `.env.local` and set the missing environment variables.
+Copy `.env.example` to `.env` and set the missing environment variables.
 
 🖥️ Start the development server
 
