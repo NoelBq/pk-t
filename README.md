@@ -97,7 +97,7 @@ You can lint the whole project with `yarn lint`.
 
 ## 🧪 Testing
 
-We use [Jest](https://jestjs.io/) for unit testing and [Cypress](https://www.cypress.io/) for E2E testing.
+We use [Jest](https://jestjs.io/) for unit testing.
 
 To run tests in watch mode, use:
 
